@@ -1,1 +1,1 @@
-<link href="Homepage.html">
+<a href="Homepage.html">Guitar Center Homepage</a>
